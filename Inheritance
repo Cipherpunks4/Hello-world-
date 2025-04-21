@@ -1,0 +1,24 @@
+class SET :
+  CSE = ""
+  CY = ""
+  AIDS = ""
+  AIML = ""
+class SCM :
+  BBA = ""
+  MBA = ""
+  Bcom = ""
+
+set= SET ()
+scm = SCM ()
+
+set.CSE = 120
+set.CY = 119
+set.AIDS = 122
+set.AIML = 118
+
+scm.BBA = 125
+scm.MBA = 123
+scm.Bcom = 126
+
+print("SET : ",set.CSE,set.CY,set.AIDS,set.AIML)
+print("SCM : ",scm.BBA,scm.MBA,scm.Bcom)
